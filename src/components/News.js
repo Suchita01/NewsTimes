@@ -51,7 +51,7 @@ const News = (props) => {
 
     return (
       <>
-        <h2 className="text-center" style={{margin:'35px 0px' , marginTop:'90px'}}>NewsTimes - Top {capitalizeFirstLetter(props.category)} Headlines</h2>
+        <h2 className="text-center" style={{margin:'35px 0px' , marginTop:'90px'}}> Top {capitalizeFirstLetter(props.category)} Headlines</h2>
         {loading && <Loader/>}
         <InfiniteScroll
         dataLength={articles.length}
@@ -62,9 +62,9 @@ const News = (props) => {
          <div className="container">
           <div className="row">
             {articles.map((element) => {
-                return<div className="col-md-4" key={element.url}>
+                return<div className="col-md-3" key={element.url}>
                 <Newsitem title={element.title?element.title.slice(0, 55):""} 
-                description={element.description} imageUrl={element.urlToImage} 
+                description={element.description?element.description.slice(0, 100):""} imageUrl={element.urlToImage} 
                 newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
                 </div>
             })}
