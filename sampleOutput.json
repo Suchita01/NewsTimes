@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Gina Martinez",
+    "title": "Grenade found in grandfather's belongings kills Indiana man, injures 2 teenage children - CBS News",
+    "description": "The grenade exploded after someone in the home found it among a grandfather's belongings and pulled the pin, police said.",
+    "url": "https://www.cbsnews.com/news/grenade-indiana-father-bryan-niedert-killed-two-teenagers-injured/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/04/71f30ffe-c190-47b5-8ad4-6f5a71da9ef9/thumbnail/1200x630/25e6bf0148cab1b5a8a1d6b74db26ba2/gettyimages-1399782864.jpg",
+    "publishedAt": "2023-05-22T00:46:52Z",
+    "content": "A man was killed teenagers were injured after a hand grenade that was found in a gradnfather's belongings went off in an Indiana home, police said.\r\nShortly before 6:30 p.m. Saturday, the Lake County… [+747 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Steven Yablonski",
+    "title": "Yellowstone volcano eruption more complex than scientists previously thought, report says - Yahoo News",
+    "description": "Scientists with the Yellowstone Volcano Observatory (YVO) recently released their report of observations and discoveries made over the last year and have...",
+    "url": "https://news.yahoo.com/yellowstone-volcano-eruption-more-complex-200108203.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.7x50l1dz.VrF9epDwNS2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_weather_articles_483/b5823fe226f9abddfbf840ee908f8f2e",
+    "publishedAt": "2023-05-21T20:01:08Z",
+    "content": "YELLOWSTONE NATIONAL PARK - Scientists with the Yellowstone Volcano Observatory (YVO) recently released their report of observations and discoveries made over the last year and have come across new e… [+3599 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SpaceNews"
+    },
+    "author": "Jason Rainbow",
+    "title": "SpaceX launches OneWeb Gen 2 technology demonstrator - SpaceNews",
+    "description": "SpaceX launched a technology demonstration satellite for OneWeb’s second-generation broadband constellation May 20, along with spares for the British firm’s current low Earth orbit network and another that U.S.-based Iridium Communications operates.",
+    "url": "https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/",
+    "urlToImage": "https://spacenews.com/wp-content/uploads/2023/05/JoeySat-pair-separates-scaled.jpg",
+    "publishedAt": "2023-05-20T15:12:37Z",
+    "content": "TAMPA, Fla. SpaceX launched a technology demonstration satellite for OneWebs second-generation broadband constellation May 20, along with spares for the British firms current low Earth orbit (LEO) ne… [+2727 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Joy Addison",
+    "title": "Reports reveal the risk for strokes is on the rise in young adults - Fox News",
+    "description": "May is National Stroke Awareness Month, and researchers are spreading awareness on increasing occurrence of strokes in younger adults",
+    "url": "https://www.foxnews.com/health/reports-reveal-risk-strokes-rise-young-adults",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/computer-screen.jpg",
+    "publishedAt": "2023-05-20T06:11:00Z",
+    "content": "HOUSTON May is National Stroke Awareness Month, and along with education on strokes, doctors are looking for answers to why strokes are happening in younger patients.\r\nThe American Stroke Association… [+2451 chars]"
+    }
+    ]
+    }
